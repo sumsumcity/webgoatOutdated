@@ -1,6 +1,5 @@
 /nb-configuration.xml
 /nbactions.xml
-/target/
 /.classpath
 /.project
 /.settings/.jsdtscope
@@ -14,7 +13,6 @@
 /.settings/org.eclipse.wst.validation.prefs
 /.externalToolBuilders/
 .project
-*/target/*
 *.pmd
 mongo-data/*
 .classpath
